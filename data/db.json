@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it\nOk, use it!",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nOK, use it!",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Hey!",
+      "body": "first blog",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "hey2",
+      "body": "2nd blog",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "hey3",
+      "body": "hey it's me",
+      "author": "yoshi",
+      "id": 5
+    }
+  ]
+}
